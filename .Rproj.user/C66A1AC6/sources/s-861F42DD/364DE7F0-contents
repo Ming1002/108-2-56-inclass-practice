@@ -1,0 +1,3 @@
+install.packages("rmarkdown")
+install.packages("installr")
+install.packages("installR")
