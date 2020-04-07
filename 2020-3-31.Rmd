@@ -1,0 +1,38 @@
+---
+title: "2020-3-31"
+author: "Ming"
+date: "2020/4/8"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## List
+
+```{r}
+vectorExample <- c(2 ,6 ,7)
+listExample <- list(2 ,6 ,7)
+
+print(vectorExample)
+print(listExample)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
